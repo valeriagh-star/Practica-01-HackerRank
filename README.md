@@ -24,7 +24,16 @@ Todas las soluciones se encuentran con el estado **Accepted** en la plataforma.
 * **Plataforma de Evaluación:** HackerRank.
 
 ## 📸 Evidencias (Capturas de pantalla)
+[**Nota:** Estas imágenes fueron subidas a la raíz del repositorio.]
 
+### Resultados de Submissions
+
+* **Envíos Aceptados (Substring, Loops, etc.):**
+  ![Lista de envíos aceptados parte 1](HackerRank1.png) 
+* **Envíos Aceptados (If-Else, Stdin/Stdout, etc.):**
+  ![Lista de envíos aceptados parte 2](HackerRank2.png)
+* **Envíos Aceptados (Welcome to Java!):**
+* ![Lista de envíos aceptados parte 2](HackerRank3.png)
 
 
 ## ▶️ Instrucciones de ejecución
