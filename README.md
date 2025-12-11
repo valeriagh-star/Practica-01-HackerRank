@@ -29,11 +29,11 @@ Todas las soluciones se encuentran con el estado **Accepted** en la plataforma.
 ### Resultados de Submissions
 
 * **Envíos Aceptados (Substring, Loops, etc.):**
-  ![Lista de envíos aceptados parte 1](HackerRank 1.png) HackerRank 1.png
+  ![Lista de envíos aceptados parte 1] (HackerRank 1.png) 
 * **Envíos Aceptados (If-Else, Stdin/Stdout, etc.):**
-  ![Lista de envíos aceptados parte 2](HackerRank 2.png)
+  ![Lista de envíos aceptados parte 2] (HackerRank 2.png)
 * **Envíos Aceptados (Welcome to Java!):**
-* ![Lista de envíos aceptados parte 3](HackerRank 3.png)
+* ![Lista de envíos aceptados parte 3] (HackerRank 3.png)
 
 
 ## ▶️ Instrucciones de ejecución
