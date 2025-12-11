@@ -30,7 +30,7 @@ Todas las soluciones se encuentran con el estado **Accepted** en la plataforma.
 
 * **Envíos Aceptados (Substring, Loops, etc.):**
   ![Lista de envíos aceptados parte 1](HackerRank1.png) 
-* **Envíos Aceptados (If-Else, Stdin/Stdout, etc.):**
+* **Envíos Aceptados (If-Else, Stdin/Stdout, etc.):** 
   ![Lista de envíos aceptados parte 2](HackerRank2.png) 
 * **Envíos Aceptados (Welcome to Java!):**
 * ![Lista de envíos aceptados parte 3](HackerRank3.png)
