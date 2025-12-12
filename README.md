@@ -6,8 +6,8 @@ El objetivo es poner en práctica los conceptos básicos de la programación ori
 
 ## ✍️ Descripción
 
-Cada desafío tiene una puntuación predeterminada. La puntuación de un participante depende de la cantidad de casos de prueba que el envío del código de un participante pasa con éxito.
-Si un participante envía más de una solución por desafío, la puntuación del participante reflejará la puntuación más alta obtenida. En un desafío de juego, la puntuación del participante reflejará el último envío del código. Los participantes se clasifican por puntuación. Si dos o más participantes obtienen la misma puntuación, el empate se rompe por el tiempo total necesario para presentar la última solución, lo que da como resultado una puntuación más alta. 
+En HackerRank cada desafío tiene una puntuación predeterminada. La puntuación de un participante depende de la cantidad de casos de prueba que el envío del código de un participante pasa con éxito.
+Si un participante envía más de una solución por desafío, la puntuación del participante reflejará la puntuación más alta obtenida.
 
 Se pusieron en practica los siguientes temas:
 
