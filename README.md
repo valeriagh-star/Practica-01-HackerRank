@@ -1,8 +1,7 @@
-<div align="justify">
 # Practica 01: Ejercicios de Programación en Java (HackerRank)
 
 ## ✅ Objetivo
- 
+<div align="justify">
 El objetivo es poner en práctica los conceptos básicos de la programación orientada a objetos. Resolviendo ejercicios simples usando clases, objetos y métodos propuestos en la plataforma HackerRank.
 
 ## ✍️ Descripción
