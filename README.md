@@ -39,7 +39,7 @@ Todas las soluciones se encuentran con el estado **Accepted** en la plataforma.
 
 El código fuente de los 16 problemas está organizado por paquetes y se puede revisar directamente en la carpeta [src/](https://github.com/valeriagh-star/Practica-01-HackerRank/tree/main/src/).
 
-| Problema de HackerRank | Ruta del Archivo .java (Ejemplo) | Estado |
+| Problema de HackerRank | Ruta del Archivo .java | Estado |
 | :--- | :--- | :--- |
 | **Welcome to Java!** | [src/WelcomeToJava/Solution.java](https://github.com/valeriagh-star/Practica-01-HackerRank/blob/main/src/WelcomeToJava/Solution.java) | Accepted |
 | **Java Stdin and Stdout I** | [src/javaStdinAndStdoutI/Solution.java](https://github.com/valeriagh-star/Practica-01-HackerRank/blob/main/src/javaStdinAndStdoutI/Solution.java) | Accepted |
