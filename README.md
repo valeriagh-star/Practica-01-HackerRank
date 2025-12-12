@@ -35,7 +35,22 @@ Todas las soluciones se encuentran con el estado **Accepted** en la plataforma.
 * **Envíos Aceptados (Welcome to Java!):**
 * ![Lista de envíos aceptados parte 3](HackerRank3.png)
 * **Códigos .java**:
-* 
+Welcome to Java!	src/WelcomeToJava/Solution.java	Accepted
+Java Stdin and Stdout I	src/javaStdinAndStdoutI/Solution.java	Accepted
+Java Stdin and Stdout II	src/javaStdinAndStdoutII/Solution.java	Revisar (Wrong Answer)
+Java If-Else	src/javaIfElse/Solution.java	Accepted
+Java Loops I	src/javaLoopsI/Solution.java	Accepted
+Java Loops II	src/javaLoopsII/Solution.java	Accepted
+Java Output Formatting	src/javaOutputFormatting/Solution.java	Accepted
+Java Datatypes	src/javaDataTypes/Solution.java	Accepted
+Java End-of-file	src/javaEndOfFile/Solution.java	Accepted
+Java Static Initializer Block	src/javaStaticInitializerBlock/Solution.java	Accepted
+Java Int to String	src/javaIntToString/Solution.java	Accepted
+Java Date and Time	src/javaDateAndTime/Result.java	Accepted
+Java Currency Formatter	src/javaCurrencyFormatter/Solution.java	Accepted
+Java Strings Introduction	src/javaStringsIntroduction/Solution.java	Accepted
+Java Substring	src/javaSubstring/Solution.java	Accepted
+Java String Reverse	src/javaStringReverse/Solution.java	Accepted
 
 
 ## ▶️ Instrucciones de ejecución
