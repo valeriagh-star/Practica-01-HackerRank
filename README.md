@@ -24,7 +24,7 @@ Todas las soluciones se encuentran con el estado **Accepted** en la plataforma.
 * **Plataforma de Evaluación:** HackerRank.
 
 ## 📸 Evidencias (Capturas de pantalla)
-[**Nota:** Estas imágenes fueron subidas a la raíz del repositorio.]
+[**Nota:** Estas imágenes fueron subidas a la raíz del repositorio, así como también un archivo zip con los 16 ejercicios de Hacker Rank.]
 
 ### Resultados de Submissions
 
@@ -34,6 +34,8 @@ Todas las soluciones se encuentran con el estado **Accepted** en la plataforma.
   ![Lista de envíos aceptados parte 2](HackerRank2.png) 
 * **Envíos Aceptados (Welcome to Java!):**
 * ![Lista de envíos aceptados parte 3](HackerRank3.png)
+* **Códigos .java**:
+* 
 
 
 ## ▶️ Instrucciones de ejecución
