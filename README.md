@@ -24,7 +24,7 @@ Todas las soluciones se encuentran con el estado **Accepted** en la plataforma.
 * **Plataforma de Evaluación:** HackerRank.
 
 ## 📸 Evidencias (Capturas de pantalla)
-[**Nota:** Estas imágenes fueron subidas a la raíz del repositorio, así como también un archivo zip con los 16 ejercicios de Hacker Rank.]
+[**Nota:** Estas imágenes fueron subidas a la raíz del repositorio, así como también la carpeta src con los 16 ejercicios de Hacker Rank.]
 
 ### Resultados de Submissions
 
