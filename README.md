@@ -18,7 +18,7 @@ Se pusieron en practica los siguientes temas:
 * Operaciones con cadenas (`Java String Reverse`, `Java Substring`).
 * Formato de salida (`Java Output Formatting`).
 
-Todas las soluciones se encuentran con el estado **Accepted** en la plataforma.
+La gran mayoría de las soluciones se encuentran con el estado **Accepted** en la plataforma.
 
 ## ⚙️ Tecnologías utilizadas
 
