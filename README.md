@@ -34,23 +34,29 @@ Todas las soluciones se encuentran con el estado **Accepted** en la plataforma.
   ![Lista de envíos aceptados parte 2](HackerRank2.png) 
 * **Envíos Aceptados (Welcome to Java!):**
 * ![Lista de envíos aceptados parte 3](HackerRank3.png)
-* **Códigos .java**:
-Welcome to Java!	src/WelcomeToJava/Solution.java	Accepted
-Java Stdin and Stdout I	src/javaStdinAndStdoutI/Solution.java	Accepted
-Java Stdin and Stdout II	src/javaStdinAndStdoutII/Solution.java	Revisar (Wrong Answer)
-Java If-Else	src/javaIfElse/Solution.java	Accepted
-Java Loops I	src/javaLoopsI/Solution.java	Accepted
-Java Loops II	src/javaLoopsII/Solution.java	Accepted
-Java Output Formatting	src/javaOutputFormatting/Solution.java	Accepted
-Java Datatypes	src/javaDataTypes/Solution.java	Accepted
-Java End-of-file	src/javaEndOfFile/Solution.java	Accepted
-Java Static Initializer Block	src/javaStaticInitializerBlock/Solution.java	Accepted
-Java Int to String	src/javaIntToString/Solution.java	Accepted
-Java Date and Time	src/javaDateAndTime/Result.java	Accepted
-Java Currency Formatter	src/javaCurrencyFormatter/Solution.java	Accepted
-Java Strings Introduction	src/javaStringsIntroduction/Solution.java	Accepted
-Java Substring	src/javaSubstring/Solution.java	Accepted
-Java String Reverse	src/javaStringReverse/Solution.java	Accepted
+  
+## 📁 Soluciones (Archivos .java)
+
+El código fuente de los 16 problemas está organizado por paquetes y se puede revisar directamente en la carpeta [src/](https://github.com/valeriagh-star/Practica-01-HackerRank/tree/main/src/).
+
+| Problema de HackerRank | Ruta del Archivo .java (Ejemplo) | Estado |
+| :--- | :--- | :--- |
+| **Welcome to Java!** | [src/WelcomeToJava/Solution.java](https://github.com/valeriagh-star/Practica-01-HackerRank/blob/main/src/WelcomeToJava/Solution.java) | Accepted |
+| **Java Stdin and Stdout I** | [src/javaStdinAndStdoutI/Solution.java](https://github.com/valeriagh-star/Practica-01-HackerRank/blob/main/src/javaStdinAndStdoutI/Solution.java) | Accepted |
+| **Java Stdin and Stdout II** | [src/javaStdinAndStdoutII/Solution.java](https://github.com/valeriagh-star/Practica-01-HackerRank/blob/main/src/javaStdinAndStdoutII/Solution.java) | Wrong Answer |
+| **Java If-Else** | [src/javaIfElse/Solution.java](https://github.com/valeriagh-star/Practica-01-HackerRank/blob/main/src/javaIfElse/Solution.java) | Accepted |
+| **Java Loops I** | [src/javaLoopsI/Solution.java](https://github.com/valeriagh-star/Practica-01-HackerRank/blob/main/src/javaLoopsI/Solution.java) | Accepted |
+| **Java Loops II** | [src/javaLoopsII/Solution.java](https://github.com/valeriagh-star/Practica-01-HackerRank/blob/main/src/javaLoopsII/Solution.java) | Accepted |
+| **Java Output Formatting** | [src/javaOutputFormatting/Solution.java](https://github.com/valeriagh-star/Practica-01-HackerRank/blob/main/src/javaOutputFormatting/Solution.java) | Accepted |
+| **Java Datatypes** | [src/javaDataTypes/Solution.java](https://github.com/valeriagh-star/Practica-01-HackerRank/blob/main/src/javaDataTypes/Solution.java) | Accepted |
+| **Java End-of-file** | [src/javaEndOfFile/Solution.java](https://github.com/valeriagh-star/Practica-01-HackerRank/blob/main/src/javaEndOfFile/Solution.java) | Accepted |
+| **Java Static Initializer Block** | [src/javaStaticInitializerBlock/Solution.java](https://github.com/valeriagh-star/Practica-01-HackerRank/blob/main/src/javaStaticInitializerBlock/Solution.java) | Accepted |
+| **Java Int to String** | [src/javaIntToString/Solution.java](https://github.com/valeriagh-star/Practica-01-HackerRank/blob/main/src/javaIntToString/Solution.java) | Accepted |
+| **Java Date and Time** | [src/javaDateAndTime/Result.java](https://github.com/valeriagh-star/Practica-01-HackerRank/blob/main/src/javaDateAndTime/Result.java) | Accepted |
+| **Java Currency Formatter** | [src/javaCurrencyFormatter/Solution.java](https://github.com/valeriagh-star/Practica-01-HackerRank/blob/main/src/javaCurrencyFormatter/Solution.java) | Accepted |
+| **Java Strings Introduction** | [src/javaStringsIntroduction/Solution.java](https://github.com/valeriagh-star/Practica-01-HackerRank/blob/main/src/javaStringsIntroduction/Solution.java) | Accepted |
+| **Java Substring** | [src/javaSubstring/Solution.java](https://github.com/valeriagh-star/Practica-01-HackerRank/blob/main/src/javaSubstring/Solution.java) | Accepted |
+| **Java String Reverse** | [src/javaStringReverse/Solution.java](https://github.com/valeriagh-star/Practica-01-HackerRank/blob/main/src/javaStringReverse/Solution.java) | Accepted |
 
 
 ## ▶️ Instrucciones de ejecución
